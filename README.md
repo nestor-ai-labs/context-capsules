@@ -2,6 +2,9 @@
 
 [Read the whitepaper](./docs/whitepaper.md)
 
+<img src="screens/example-1.png" alt="Example 1" width="360">
+<img src="screens/example-2.png" alt="Example 2" width="360">
+<br>
 ![Capsule example](./screens/example-1.png)
 ![Capsule long format](./screens/example-2.png)
 
